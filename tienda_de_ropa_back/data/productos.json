@@ -1,0 +1,209 @@
+[
+    {
+        "name": "Camisa de Algodón",
+        "description": "Camisa ligera y cómoda hecha 100% de algodón.",
+        "price": 25.99,
+        "img": "Camisa_de_Algodón.webp",
+        "materials": [
+            "Algodón"
+        ],
+        "category": "ropa casual"
+    },
+    {
+        "name": "Pantalón de Lino",
+        "description": "Pantalón fresco, ideal para el verano, hecho de lino.",
+        "price": 35.50,
+        "img": "Pantalón_de_Lino.webp",
+        "materials": [
+            "Lino"
+        ],
+        "category": "ropa casual"
+    },
+    {
+        "name": "Vestido de Noche",
+        "description": "Vestido elegante largo, ideal para eventos formales.",
+        "price": 89.99,
+        "img": "Vestido_de_Noche.png",
+        "materials": [
+            "Seda",
+            "Poliéster"
+        ],
+        "category": "ropa formal"
+    },
+    {
+        "name": "Chaqueta de Cuero",
+        "description": "Chaqueta elegante de cuero genuino.",
+        "price": 120.00,
+        "img": "Chaqueta_de_Cuero.jpg",
+        "materials": [
+            "Cuero"
+        ],
+        "category": "ropa exterior"
+    },
+    {
+        "name": "Pantalón de Jean",
+        "description": "Pantalón resistente de mezclilla para uso diario.",
+        "price": 45.00,
+        "img": "Pantalon_de_Jean.png",
+        "materials": [
+            "Mezclilla"
+        ],
+        "category": "ropa casual"
+    },
+    {
+        "name": "Falda Plisada",
+        "description": "Falda con pliegues elegantes, ideal para ocasiones formales.",
+        "price": 39.99,
+        "img": "Falda_Plisada.webp",
+        "materials": [
+            "Poliéster"
+        ],
+        "category": "ropa formal"
+    },
+    {
+        "name": "Blazer de Lino",
+        "description": "Blazer fresco y ligero, perfecto para el verano.",
+        "price": 75.50,
+        "img": "Blazer_de_Lino.webp",
+        "materials": [
+            "Lino"
+        ],
+        "category": "ropa formal"
+    },
+    {
+        "name": "Polo Deportivo",
+        "description": "Camiseta polo con tecnología transpirable para actividad física.",
+        "price": 20.99,
+        "img": "Polo_Deportivo.webp",
+        "materials": [
+            "Poliéster"
+        ],
+        "category": "ropa deportiva"
+    },
+    {
+        "name": "Sudadera con Capucha",
+        "description": "Sudadera cómoda y abrigada con capucha ajustable.",
+        "price": 35.00,
+        "img": "Sudadera_con_Capucha.png",
+        "materials": [
+            "Algodón",
+            "Poliéster"
+        ],
+        "category": "ropa casual"
+    },
+    {
+        "name": "Chaleco de Plumas",
+        "description": "Chaleco ligero y térmico, ideal para climas fríos.",
+        "price": 60.99,
+        "img": "Chaleco_de_Plumas.png",
+        "materials": [
+            "Plumas",
+            "Nylon"
+        ],
+        "category": "ropa exterior"
+    },
+    {
+        "name": "Abrigo de Lana",
+        "description": "Abrigo largo de lana para un look sofisticado en invierno.",
+        "price": 130.00,
+        "img": "Abrigo_de_Lana.png",
+        "materials": [
+            "Lana"
+        ],
+        "category": "ropa exterior"
+    },
+    {
+        "name": "Zapatos Deportivos",
+        "description": "Zapatos ligeros y flexibles, diseñados para correr.",
+        "price": 55.00,
+        "img": "Zapatos_Deportivos.png",
+        "materials": [
+            "Goma",
+            "Poliéster"
+        ],
+        "category": "ropa deportiva"
+    },
+    {
+        "name": "Camiseta Técnica",
+        "description": "Camiseta ajustada que absorbe el sudor, ideal para deportes.",
+        "price": 18.99,
+        "img": "Camiseta_Técnica.jpg",
+        "materials": [
+            "Elastano",
+            "Poliéster"
+        ],
+        "category": "ropa deportiva"
+    },
+    {
+        "name": "Blazer de Algodón",
+        "description": "Blazer ligero y elegante para eventos formales.",
+        "price": 85.99,
+        "img": "Blazer_de_Algodón.webp",
+        "materials": [
+            "Algodón"
+        ],
+        "category": "ropa formal"
+    },
+    {
+        "name": "Corbata de Seda",
+        "description": "Corbata de seda suave y elegante, disponible en varios colores.",
+        "price": 25.00,
+        "img": "Corbata_de_Seda.png",
+        "materials": [
+            "Seda"
+        ],
+        "category": "ropa formal"
+    },
+    {
+        "name": "Sombrero de Paja",
+        "description": "Sombrero ligero, ideal para protegerse del sol.",
+        "price": 15.99,
+        "img": "Sombrero_de_Paja.png",
+        "materials": [
+            "Paja"
+        ],
+        "category": "accesorios"
+    },
+    {
+        "name": "Chaqueta Impermeable",
+        "description": "Chaqueta con tecnología impermeable, ideal para días lluviosos.",
+        "price": 70.00,
+        "img": "Chaqueta_Impermeable.png",
+        "materials": [
+            "Poliéster",
+            "Nylon"
+        ],
+        "category": "ropa exterior"
+    },
+    {
+        "name": "Bufanda de Lana",
+        "description": "Bufanda suave y cálida para el invierno.",
+        "price": 20.99,
+        "img": "Bufanda_de_Lana.png",
+        "materials": [
+            "Lana"
+        ],
+        "category": "accesorios"
+    },
+    {
+        "name": "Zapatos de Cuero",
+        "description": "Zapatos formales de cuero, perfectos para la oficina.",
+        "price": 95.00,
+        "img": "Zapatos_de_Cuero.png",
+        "materials": [
+            "Cuero"
+        ],
+        "category": "ropa formal"
+    },
+    {
+        "name": "Sudadera Deportiva",
+        "description": "Sudadera con capucha, ideal para actividades al aire libre.",
+        "price": 40.00,
+        "img": "Sudadera_Deportiva.webp",
+        "materials": [
+            "Algodón",
+            "Poliéster"
+        ],
+        "category": "ropa deportiva"
+    }
+]

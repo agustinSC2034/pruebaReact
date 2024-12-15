@@ -1,0 +1,26 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+main {
+    align-content: center;
+    min-height: 78.4vh;
+    margin: 0;
+}
+
+.login{
+    align-content: center;
+    min-height: 70vh;
+    margin: 0;
+}
+
+.card-img-top {
+    width: 100% !important; 
+    height: 350px !important; 
+    object-fit: cover !important; 
+    border-radius: 8px !important; 
+}
